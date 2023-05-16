@@ -1,0 +1,139 @@
+2023-05-16 11:05:432 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (9f48a0fcb970613405691db9b9a00a1f)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:306 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:232 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:256 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:377 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (9f48a0fcb970613405691db9b9a00a1f)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:442 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:913 INFO  GearPage :119 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (9f48a0fcb970613405691db9b9a00a1f)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 11:05:673 INFO  GearPage :126 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 11:05:694 INFO  GearPage :144 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (9f48a0fcb970613405691db9b9a00a1f)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 11:05:979 INFO  GearPage :163 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (9f48a0fcb970613405691db9b9a00a1f)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 11:05:21 INFO  GearPage :169 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 11:05:680 INFO  GearPage :178 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (9f48a0fcb970613405691db9b9a00a1f)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 11:05:953 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (618f08ed8e8490c06de2e8c06a7acdcb)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:813 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:552 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:633 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:785 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (618f08ed8e8490c06de2e8c06a7acdcb)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:839 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:310 INFO  GearPage :119 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (618f08ed8e8490c06de2e8c06a7acdcb)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 11:05:612 INFO  GearPage :126 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 11:05:677 INFO  GearPage :144 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (618f08ed8e8490c06de2e8c06a7acdcb)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 11:05:34 INFO  GearPage :163 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (618f08ed8e8490c06de2e8c06a7acdcb)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 11:05:82 INFO  GearPage :169 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 11:05:798 INFO  GearPage :178 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (618f08ed8e8490c06de2e8c06a7acdcb)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 11:05:477 INFO  HomePage :44 - Mouse hover on Men menu : [[ChromeDriver: chrome on WINDOWS (170b6b1d31b12215c31922e83dad3391)] -> css selector: a[id='ui-id-5'] span:nth-child(2)]
+2023-05-16 11:05:621 INFO  HomePage :53 - Mouse hover on bottom : [[ChromeDriver: chrome on WINDOWS (170b6b1d31b12215c31922e83dad3391)] -> css selector: #ui-id-18]
+2023-05-16 11:05:759 INFO  MenPage :24 - Clicking on pants: [[ChromeDriver: chrome on WINDOWS (170b6b1d31b12215c31922e83dad3391)] -> css selector: #ui-id-23]
+2023-05-16 11:05:360 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (851ece393694b2b08247a31f0cf48e6a)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:536 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (851ece393694b2b08247a31f0cf48e6a)] -> css selector: #ui-id-9]
+2023-05-16 11:05:658 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (851ece393694b2b08247a31f0cf48e6a)] -> css selector: #ui-id-11]
+2023-05-16 11:05:534 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (851ece393694b2b08247a31f0cf48e6a)] -> id: sorter]
+2023-05-16 11:05:256 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (7834dc90542af3d465628dde13b8424c)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:397 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (7834dc90542af3d465628dde13b8424c)] -> css selector: #ui-id-9]
+2023-05-16 11:05:540 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (7834dc90542af3d465628dde13b8424c)] -> css selector: #ui-id-11]
+2023-05-16 11:05:403 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (7834dc90542af3d465628dde13b8424c)] -> id: sorter]
+2023-05-16 11:05:664 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (dbe41164cc320b0cd9c4cebe9430d8c7)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:492 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:195 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:280 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:414 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (dbe41164cc320b0cd9c4cebe9430d8c7)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:476 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:239 INFO  GearPage :119 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (dbe41164cc320b0cd9c4cebe9430d8c7)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 11:05:831 INFO  GearPage :126 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 11:05:851 INFO  GearPage :144 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (dbe41164cc320b0cd9c4cebe9430d8c7)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 11:05:178 INFO  GearPage :163 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (dbe41164cc320b0cd9c4cebe9430d8c7)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 11:05:231 INFO  GearPage :169 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 11:05:230 INFO  GearPage :178 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (dbe41164cc320b0cd9c4cebe9430d8c7)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 11:05:962 INFO  HomePage :44 - Mouse hover on Men menu : [[ChromeDriver: chrome on WINDOWS (39371a14da07f21374121a6eae569407)] -> css selector: a[id='ui-id-5'] span:nth-child(2)]
+2023-05-16 11:05:99 INFO  HomePage :53 - Mouse hover on bottom : [[ChromeDriver: chrome on WINDOWS (39371a14da07f21374121a6eae569407)] -> css selector: #ui-id-18]
+2023-05-16 11:05:236 INFO  MenPage :24 - Clicking on pants: [[ChromeDriver: chrome on WINDOWS (39371a14da07f21374121a6eae569407)] -> css selector: #ui-id-23]
+2023-05-16 11:05:803 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (24ec156e50ceb3239b7e2722d2c3063f)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:934 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (24ec156e50ceb3239b7e2722d2c3063f)] -> css selector: #ui-id-9]
+2023-05-16 11:05:79 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (24ec156e50ceb3239b7e2722d2c3063f)] -> css selector: #ui-id-11]
+2023-05-16 11:05:996 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (24ec156e50ceb3239b7e2722d2c3063f)] -> id: sorter]
+2023-05-16 11:05:578 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (5fa8386484ae9704e6b58d3be041d979)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:794 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (5fa8386484ae9704e6b58d3be041d979)] -> css selector: #ui-id-9]
+2023-05-16 11:05:929 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (5fa8386484ae9704e6b58d3be041d979)] -> css selector: #ui-id-11]
+2023-05-16 11:05:798 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (5fa8386484ae9704e6b58d3be041d979)] -> id: sorter]
+2023-05-16 11:05:184 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (67b5d2b3678a0b86f5fba2a34dba575b)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:329 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (67b5d2b3678a0b86f5fba2a34dba575b)] -> css selector: #ui-id-9]
+2023-05-16 11:05:471 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (67b5d2b3678a0b86f5fba2a34dba575b)] -> css selector: #ui-id-11]
+2023-05-16 11:05:366 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (67b5d2b3678a0b86f5fba2a34dba575b)] -> id: sorter]
+2023-05-16 11:05:50 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (93d0a6559022c906afba79eadc2dc3f0)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:996 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:746 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:829 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:959 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (93d0a6559022c906afba79eadc2dc3f0)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:12 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:768 INFO  HomePage :44 - Mouse hover on Men menu : [[ChromeDriver: chrome on WINDOWS (253bdfc02904c5b255e4dfbe74adfa79)] -> css selector: a[id='ui-id-5'] span:nth-child(2)]
+2023-05-16 11:05:916 INFO  HomePage :53 - Mouse hover on bottom : [[ChromeDriver: chrome on WINDOWS (253bdfc02904c5b255e4dfbe74adfa79)] -> css selector: #ui-id-18]
+2023-05-16 11:05:55 INFO  MenPage :24 - Clicking on pants: [[ChromeDriver: chrome on WINDOWS (253bdfc02904c5b255e4dfbe74adfa79)] -> css selector: #ui-id-23]
+2023-05-16 11:05:263 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (98a56b21e63740c366732cc6d1945077)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:441 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (98a56b21e63740c366732cc6d1945077)] -> css selector: #ui-id-9]
+2023-05-16 11:05:587 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (98a56b21e63740c366732cc6d1945077)] -> css selector: #ui-id-11]
+2023-05-16 11:05:475 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (98a56b21e63740c366732cc6d1945077)] -> id: sorter]
+2023-05-16 11:05:605 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (6b6df8a3152ab705e51c04088134ab39)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:573 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:317 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:396 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:529 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (6b6df8a3152ab705e51c04088134ab39)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:585 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:88 INFO  GearPage :119 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (6b6df8a3152ab705e51c04088134ab39)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 11:05:905 INFO  GearPage :126 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 11:05:927 INFO  GearPage :144 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (6b6df8a3152ab705e51c04088134ab39)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 11:05:253 INFO  GearPage :163 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (6b6df8a3152ab705e51c04088134ab39)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 11:05:306 INFO  GearPage :169 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 11:05:799 INFO  GearPage :178 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (6b6df8a3152ab705e51c04088134ab39)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 11:05:669 INFO  HomePage :44 - Mouse hover on Men menu : [[ChromeDriver: chrome on WINDOWS (a3dd5257f71e0ab001dd5b08ebbabf61)] -> css selector: a[id='ui-id-5'] span:nth-child(2)]
+2023-05-16 11:05:802 INFO  HomePage :53 - Mouse hover on bottom : [[ChromeDriver: chrome on WINDOWS (a3dd5257f71e0ab001dd5b08ebbabf61)] -> css selector: #ui-id-18]
+2023-05-16 11:05:934 INFO  MenPage :24 - Clicking on pants: [[ChromeDriver: chrome on WINDOWS (a3dd5257f71e0ab001dd5b08ebbabf61)] -> css selector: #ui-id-23]
+2023-05-16 11:05:844 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (a4cee8fe893f0d6c7fc27aba830bf09d)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:26 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (a4cee8fe893f0d6c7fc27aba830bf09d)] -> css selector: #ui-id-9]
+2023-05-16 11:05:166 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (a4cee8fe893f0d6c7fc27aba830bf09d)] -> css selector: #ui-id-11]
+2023-05-16 11:05:369 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (a4cee8fe893f0d6c7fc27aba830bf09d)] -> id: sorter]
+2023-05-16 11:05:511 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (c63b8940a672f4ceca16a37609b3a647)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:322 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:106 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:177 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:321 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (c63b8940a672f4ceca16a37609b3a647)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:406 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:894 INFO  GearPage :119 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (c63b8940a672f4ceca16a37609b3a647)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 11:05:494 INFO  GearPage :126 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 11:05:514 INFO  GearPage :144 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (c63b8940a672f4ceca16a37609b3a647)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 11:05:815 INFO  GearPage :163 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (c63b8940a672f4ceca16a37609b3a647)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 11:05:859 INFO  GearPage :169 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 11:05:713 INFO  GearPage :178 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (c63b8940a672f4ceca16a37609b3a647)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 11:05:513 INFO  HomePage :44 - Mouse hover on Men menu : [[ChromeDriver: chrome on WINDOWS (bb7e85d4e6fee8df1aaf59325f2927e7)] -> css selector: a[id='ui-id-5'] span:nth-child(2)]
+2023-05-16 11:05:675 INFO  HomePage :53 - Mouse hover on bottom : [[ChromeDriver: chrome on WINDOWS (bb7e85d4e6fee8df1aaf59325f2927e7)] -> css selector: #ui-id-18]
+2023-05-16 11:05:823 INFO  MenPage :24 - Clicking on pants: [[ChromeDriver: chrome on WINDOWS (bb7e85d4e6fee8df1aaf59325f2927e7)] -> css selector: #ui-id-23]
+2023-05-16 11:05:303 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (9c4d56f37ab6883f7699b1cd48f59f07)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:449 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (9c4d56f37ab6883f7699b1cd48f59f07)] -> css selector: #ui-id-9]
+2023-05-16 11:05:587 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (9c4d56f37ab6883f7699b1cd48f59f07)] -> css selector: #ui-id-11]
+2023-05-16 11:05:738 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (9c4d56f37ab6883f7699b1cd48f59f07)] -> id: sorter]
+2023-05-16 11:05:481 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (810a19964b0c2d367fbef1815a569bfb)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:612 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (810a19964b0c2d367fbef1815a569bfb)] -> css selector: #ui-id-9]
+2023-05-16 11:05:757 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (810a19964b0c2d367fbef1815a569bfb)] -> css selector: #ui-id-11]
+2023-05-16 11:05:108 INFO  HomePage :63 - Mouse hover on gearmenu : [[ChromeDriver: chrome on WINDOWS (bf78ecdc30094afed998df588be9749d)] -> css selector: a[id='ui-id-6'] span:nth-child(2)]
+2023-05-16 11:05:394 INFO  GearPage :75 - Click on Bags<br>
+2023-05-16 11:05:99 INFO  GearPage :82 - Click on Product Name ‘Overnight Duffle’<br>
+2023-05-16 11:05:181 INFO  GearPage :91 - Verify the text ‘Overnight Duffle’<br>
+2023-05-16 11:05:334 INFO  GearPage :103 - Change Qty 3 :[[ChromeDriver: chrome on WINDOWS (bf78ecdc30094afed998df588be9749d)] -> xpath: //input[@id='qty']]<br>
+2023-05-16 11:05:406 INFO  GearPage :110 - Click on ‘Add to Cart’ Button.<br>
+2023-05-16 11:05:862 INFO  GearPage :119 - Verify the text ‘You added Overnight Duffle to your shopping cart.’ : [[ChromeDriver: chrome on WINDOWS (bf78ecdc30094afed998df588be9749d)] -> xpath: //div[@data-bind='html: $parent.prepareMessageForHtml(message.text)']]<br>
+2023-05-16 11:05:248 INFO  GearPage :126 - Click on ‘shopping cart’ Link into message<br>
+2023-05-16 11:05:277 INFO  GearPage :144 - Verify the product price ‘$135.00’: [[ChromeDriver: chrome on WINDOWS (bf78ecdc30094afed998df588be9749d)] -> xpath: //td[@class='col subtotal']//span[@class='price']]<br>
+2023-05-16 11:05:628 INFO  GearPage :163 - Change Qty to ‘5’ : [[ChromeDriver: chrome on WINDOWS (bf78ecdc30094afed998df588be9749d)] -> xpath: //tbody/tr[1]/td[3]/div[1]/div[1]/label[1]]<br>
+2023-05-16 11:05:674 INFO  GearPage :169 - Click on ‘Update Shopping Cart’ button<br>
+2023-05-16 11:05:296 INFO  GearPage :178 - Verify the product price ‘$225.00’ : [[ChromeDriver: chrome on WINDOWS (bf78ecdc30094afed998df588be9749d)] -> xpath: //span[contains(text(),'$225.00')]]<br>
+2023-05-16 11:05:95 INFO  HomePage :44 - Mouse hover on Men menu : [[ChromeDriver: chrome on WINDOWS (ceddfb186e9e29b3f5ca16585c75b9f9)] -> css selector: a[id='ui-id-5'] span:nth-child(2)]
+2023-05-16 11:05:246 INFO  HomePage :53 - Mouse hover on bottom : [[ChromeDriver: chrome on WINDOWS (ceddfb186e9e29b3f5ca16585c75b9f9)] -> css selector: #ui-id-18]
+2023-05-16 11:05:375 INFO  MenPage :24 - Clicking on pants: [[ChromeDriver: chrome on WINDOWS (ceddfb186e9e29b3f5ca16585c75b9f9)] -> css selector: #ui-id-23]
+2023-05-16 11:05:907 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (2b9a582a30eb4062d73b073011346643)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:53 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (2b9a582a30eb4062d73b073011346643)] -> css selector: #ui-id-9]
+2023-05-16 11:05:191 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (2b9a582a30eb4062d73b073011346643)] -> css selector: #ui-id-11]
+2023-05-16 11:05:68 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (2b9a582a30eb4062d73b073011346643)] -> id: sorter]
+2023-05-16 11:05:768 INFO  HomePage :27 - Mouse hover Women menu : [[ChromeDriver: chrome on WINDOWS (038ab4ca5d05d467967a8b2c4c2a1bce)] -> css selector: a[id='ui-id-4'] span:nth-child(2)]
+2023-05-16 11:05:909 INFO  HomePage :36 - Mouse hover on tops : [[ChromeDriver: chrome on WINDOWS (038ab4ca5d05d467967a8b2c4c2a1bce)] -> css selector: #ui-id-9]
+2023-05-16 11:05:44 INFO  WomenPage :36 - Click on jacket : [[ChromeDriver: chrome on WINDOWS (038ab4ca5d05d467967a8b2c4c2a1bce)] -> css selector: #ui-id-11]
+2023-05-16 11:05:223 INFO  WomenPage :40 - Select Product name : [[ChromeDriver: chrome on WINDOWS (038ab4ca5d05d467967a8b2c4c2a1bce)] -> id: sorter]
